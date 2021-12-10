@@ -5,4 +5,4 @@ icons: https://store.kde.org/p/1473069/
 
 kvantum-theme: https://aur.archlinux.org/packages/kvantum-theme-arc/
 
-https://github.com/VenerableCrow/Dotfiles/blob/main/Rice.png
+![alt text](https://github.com/VenerableCrow/Dotfiles/blob/main/Rice.png)
